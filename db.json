@@ -1,14 +1,14 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "id":1,
+    "title": "Combattez Terrakium dans les raids cinq étoiles avec un Passe de Raid à distance ; Heure de Raids Viridium le mercredi 13 mai !",
+    "texte": [
+      "Terrakium est de retour dans les raids cinq étoiles ! Avec un peu de chance, vous pourriez cette fois rencontrer un Terrakium chromatique. Avant le retour de Terrakium, vous pourrez profiter d'une Heure de Raids Viridium ce mercredi 13 mai 2020, de 18h à 19h heure locale",
+      "La possibilité de participer à un raid à distance est disponible pour les Dresseurs niveau 5 ou plus ! Vous pouvez rejoindre un Combat de Raid, visible sur l'écran À proximité ou en appuyant sur la carte, en utilisant un Passe de Raid à distance. Vous pouvez vous procurer un Passe de Raid à distance dans la boutique",
+      "De plus, vous pourrez profiter d'une Heure de Raids avec Terrakium. Le mercredi 20 mai 2020, de 18h à 19h heure locale, les raids Terrakium auront lieu plus fréquemment",
+      "Soyez conscient(e) de votre environnement et suivez les directives des autorités sanitaires locales lorsque vous jouez à Pokémon GO. Les événements à venir sont susceptibles d'être modifiés. Assurez-vous de nous suivre sur les réseaux sociaux, de choisir de recevoir des notifications push et de vous abonner à nos e-mails pour vous tenir au courant des dernières actualités. Pour connaître les dernières mises à jour concernant les événements en jeu et les fonctionnalités, consultez cet article du centre d'aide"
+    ],
+    "img":"https://pokemongolive.com/img/posts/remoteraidpass-terrakion.jpg",
+    "author":"L'équipe Pokémon GO"
   }
-}
+]
